@@ -1,1 +1,7 @@
 Trying to learn to use FW/1 and a login app.
+This code began with the UserManagerAccessControl that was in the FW/1 download.
+See github.com/seancorfield/fw1
+The example code included a user manager, which I don't need, so I have removed.
+
+For the most part, I don't know much about what I'm doing, either in FW/1 or GitHub,
+so download at your own risk. What you really want is the original, as mentioned above.
